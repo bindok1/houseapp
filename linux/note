@@ -1,0 +1,17 @@
+gunakan listview untuk scrollable tmbh horizontal atau vertikal sesuaikana saja
+gunakan ClipRReact untuk membuat rounded rectangle
+untuk membuat data gunakan model
+1. buat folder model
+2. buat class nya (liat bagian models di file City.dart)
+3. jika sudah tinggal panggil constructor tadi
+gunakan text.rich untuk menggunakan 2 font berbeda gunakan text span
+gunakan spacer untuk membuat widget mengembang ke selluruh container
+membuat container selebar bottom navigasi dengan media query liat di bagian bawah home page
+gunakan floatingactionbutton untuk membuat widget mengambang ketika di scroll
+gunakan inkwell untuk membuat responsive touch area 
+untuk membuat widget selebar device gunakan media query liat di detailPage
+gunakan urllauncer untuk membuat menampilkan url
+untuk update icon gunakan icon launcher di pub dev
+untuk membuat apk bisa buat di terminal flutter build apk
+usahakan samakan gradle agar mempermudah setting ke android
+gunakan user permision untuk mengizinkan <query>
